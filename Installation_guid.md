@@ -11,7 +11,7 @@ run following
  5. fifth option
 
 ##  Link 
-Set up [here](./link.md)
+Set up [here](/link.md)
 
 ##### Title vetfcguy fbueyfguyg fyewgfygweuf egfywegfuyg
 
