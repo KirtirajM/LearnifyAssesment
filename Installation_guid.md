@@ -10,4 +10,4 @@ run following
  4. forth option
  5. fifth option
 
-## [Link](./link)
+## [Link](./link.md)
