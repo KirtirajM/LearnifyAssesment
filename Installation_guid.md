@@ -10,7 +10,7 @@ run following
  4. forth option
  5. fifth option
 
-##  Link[](./link.md)
+##  Link [](./link.md)
 
 ##### Title vetfcguy fbueyfguyg fyewgfygweuf egfywegfuyg
 
@@ -22,8 +22,8 @@ run following
  - [ ] ftyewhfbhyue fueyrgfuye uyrgfyge
  - [ ] ygrfuyergfue
  - [x] hfbyesifuihes
- ## Table
- 
+
+ ## Table 
 |  Sr No.|Name  | Value|
 |--|--|--|
 |1  |First| 1.0.3|
